@@ -61,7 +61,6 @@
 			<optional>true</optional>
 		</dependency>
 
-<!--  
 		
 		<dependency>
 			<groupId>com.sun.faces</groupId>
@@ -91,7 +90,6 @@
 			<version>6.1</version>
 		</dependency>
 		
-	-->
 	</dependencies>
 
 	<build>
